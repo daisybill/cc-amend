@@ -9,7 +9,6 @@ end
 # server
 gem "sinatra"
 gem "thin"
-gem "rollbar"
 gem "dalli"
 gem "codeclimate-test-reporter"
 gem "codeclimate_batch"
